@@ -46,7 +46,21 @@ Usage of ./nagios-cloudwatch:
 > * Nagios Ranges: https://nagios-plugins.org/doc/guidelines.html#THRESHOLDFORMAT
 > * AWS Namespaces, Dimensions and Metrics: http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CW_Support_For_AWS.html
 
+## License
+
+```
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+```
+
 ## TODO
 
-- [ ] Tests
+- [ ] Testing
 - [ ] Nagios units in PerfData (https://nagios-plugins.org/doc/guidelines.html#AEN200)
+- [ ] Binary Release
+
+### Last Words
+
+Hope this software can help you... And remember that any help is always welcome. Report BUGS and features request [here](https://github.com/lcacciagioni/nagios-cloudwatch/issues).
